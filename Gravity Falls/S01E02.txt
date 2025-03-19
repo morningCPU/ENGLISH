@@ -1,0 +1,317 @@
+Gravity Falls
+-   怪诞小镇
++   gravity 重力
++   falls   瀑布
+=   其实本来的名字是重力湖小镇，这是故事发生的地方
+
+S01E02 The Legend of Gobblewonker
+-   湖怪的传说
++   legend  传说
+
+//shack 小屋 00:08
+
+Mabel:   Are you ready for the ultimate challenge?
+-   你准备好面对最终挑战了吗
+
+Dipper:  I'm always ready!
+-   时刻准备着
+
+Mabel:   Then you know what this means!
+
+Both:    Syrup race!
+-   糖浆比赛
++   syrup   糖浆 
+
+Mabel:   Go,sir syrup!
+-   来吧，糖浆爵士
+
+Dipper:  Go mountie man!
+-   来吧，骑警先生
++   mountie 骑警
+
+Both:    -Go go! -Go go! -Almost... - Almost...
+-   -来啊 -来啊 -快了 -快了 
+
+Mabel:   Yes!
+-   耶
+
+Mabel:   I won!
+-   我赢了
+
+Dipper:  Ho ho,no way!
+-   欧，不是吧
+
+Dipper:  Hey,Mabel,check this out.
+-   梅宝，你看这个
+
+// hamster  仓鼠
+
+Mabel:   Human-sized hamster ballls?
+-   真人大小的仓鼠球
+
+Mabel:   I'm human-sized!
+-   我就是真人大小
+
+Dipper:  No,no,Mabel,This.
+-   不不 梅宝 我是指这个
+
+// monster  怪物
+// contest  比赛
+
+Dipper:  We see weirder stuff than that everyday.
+-   我们每天都能看到比这个更古怪的东西
++   weird 古怪的
+
+Dipper:  We didn't get any photos of those gnomes,did we?
+-   我们没有给那些小矮人拍下照片 对吗
++   gnome   侏儒
+
+Mabel:   Nope,just memories.And this beard hair.
+-   没有 只有回忆 跟这撮胡须
++   nope    不
++   beard   胡子（整体的一个部位）
+
+Dipper:  Why did you save that?
+-   你留着它干嘛
+=   用 did 是强调过去的行为，及时这个结果现在仍然存在
+
+Stan:    Uhh! Good morning,knuckleheads.
+-   早上好 蠢蛋们
++   Uh          呃
++   knuckle     指关节
+    knucklehead 蠢蛋
+
+Stan:    You two know what day it is?
+-   你们知道今天是什么日子吗
+
+Dipper:  Um...Happy anniversary?
+-   呃 周年纪念日吗？
+
+Mabel:   Mazel tov?
+-   好运日吗？
+=   希伯来语短语
+
+Stan:    It's family fun day ,genius!
+-   是家庭快乐日 天才们
+
+Stan:    We're cuttin'off work and havin'one of those,ya know.Bondding-type deals.
+-   今天我们不工作 然后尝试干点儿 你懂的 就是联络感情的事儿
++   cuttin' cutting 非正式口语
++   havin'  having  非正式口语
++   one of those    那些事情
++   ya  you 非正式口语
+
+// 00:58
+
+Dipper:  Grunkle Stan,is this gonna be anything like our last family bonding day?
+-   斯坦叔公 这次会像上次的家庭欢乐日那样吗
++   Grunkle 是 Grand（祖父）和 Uncle（叔叔）的组合词。
+    是由创作者 Alex Hirsch 为《怪诞小镇》创造的，用来描述 Stan Pines 这个角色。
++   gonna   going to    非正式表达  打算
+
+Stan:   You call that Ben Franklin?He looks like a woman!
+-   你管这人叫富兰克林 他看起来像一个女的
+
+Stan:   Uh-oh!
+-   糟了
+
+Mabel:  Ohh!The county jail was so cold.
+-   哎 县监狱太寒冷了
++   county  县管理人
++   jail    监狱
+
+Stan:   All right,maybe I haven't been the best summer caretaker.
+-   好吧 也许我不是最佳夏日监护人
+
+Stan:   But I swear,today we're gonna have some real family fun.
+-   但是我发誓 今天我们会享受到真正的家庭乐趣
++   swear   发誓
+
+Stan:   Now,who wants to put on some blindfolds and get into my car?
+-   现在 谁想戴上眼罩然后跟我上车啊
++   blindfolds  眼罩
+
+Dipper and Mabel:   Yay!Yay!
+-   耶 耶
+
+Dipper: Wait.What?
+-   等一下 什么
+
+Dipper: Blindfolds never lead to anything good.
+-   戴眼罩从来不会遇上什么好事
+
+Mabel:  Wow.I feel like all my other senses are heightened.
+-   哇  我感觉我的其他感官功能都加强了
+
+Mabel:  I can see with my fingers.
+-   我能用手指看东西
+
+Dipper: Grunkle Stan,are you wearing a blindfold?
+-   斯坦叔公 你也戴眼罩了吗
+
+Stan:   Ha ha!Nah,but with theae cataracts,I might as well be.
+-   哈哈 没有 但我的白内障跟带了眼罩差不多
++   nah 不  非正式口语
++   cataract    白内障
+
+Stan:   What is that,a woodpecker?
+-   那是什么 啄木鸟吗
++   woodpecker  啄木鸟
+
+Stan:   Okay,okay,open'em up.
+-   好了好了 拿下眼罩
++   'em them 他们
+
+Stan:   Ta-ta!It's fishin'season!
+-   看啊 现在是钓鱼季节
++   fishin' fishing 钓鱼 非正式表达
+
+Mabel:  Fishing?
+-   钓鱼？
+
+Dipper: What are you playing at,old man?
+-   你想玩什么 老家伙
+=   非正式表达  相当于 what are you doing
+
+Stan:   You're gonna love it!The whole town's out here!
+-   你们会喜欢钓鱼的 整个小镇的人都到这里来了
+
+An old woman:   Here,fishy-fishies!Get intot the pan.
+-   来吧 多心的鱼儿 快到锅里来
+=   fishy-fishies   这个词组通常用于非正式的场合，尤其是儿童读物或对话中，显得更加轻松和有趣
+
+A man:  Say "Cheese."
+-   说茄子
+
+A man:  Uh,is this good?
+-   呃 这样行吗
+
+A man:  Noo!
+-   不行
+
+A man:  I'll show you how a real man fishes!
+-   我来告诉你们真正的男子汉是怎么钓鱼的
+
+Others: Dead!Dead!Dead!Dead!
+-   好啊 好啊 好啊 好啊
+
+A man:  Get him!Get him!
+-   打得好 打得好
+
+Stan:   That's some quality family bonding!
+-   那才是像样的感情联络嘛
+
+Dipper: Uncle Stan,why do you wants to bond with us all of a sudden?
+-   斯坦叔公 为什么你突然想跟我们联络感情
+
+Stan:   Come on,this is gonna be great!
+-   拜托 这将会非常有趣
+
+Stan:   I've never had fishin'buddies before.
+-   我从来没有过钓鱼伙伴
++   buddy   伙伴
+
+Stan:   The guys from the lodge won't go with me.
+-   共济会的那些家伙不肯跟我来
++   lodge   小屋 会所
+
+Stan:   They don't like or trust me.
+-   他们既不喜欢或 也不信任我
+
+Mabel:  I think he actually wants to fish with us.
+-   我觉得他真的想跟我们一起钓鱼呢
+
+Stan:   Hey,I know what'll cheer you sad sacks up.
+-   我知道要怎么让你们两小鬼高兴起来
++   sacks   袋子
+=   sad sacks   用袋子比喻伤心的人
+
+Stan:   Pines family fishin'hats.
+-   派恩斯家钓鱼帽
+
+Stan:   That's hand-stitching,ya know.
+-   那是手缝的 知道吗
++   stitching   缝合
+
+Stan:   It's just gonna be you,me,and those goofy hats on a boat for ten hours!
+-   今天将会是只有你们两 跟我 还有这两顶古怪的帽子 在船上一起度过美妙的十小时
++   goofy   愚蠢的
+=   好像是说高飞
+
+Dipper: Ten hours?
+-   十个小时？
+
+Stan:   I brought the joke book.
+-   我带了笑话书
+
+Dipper: No.No!
+-   不 不
+
+Mabel:  There has to be a way out of this.
+-   肯定有什么办法能逃走
+
+McGucket：  I seen it again!
+-   我又看见它了
+
+McGucket：  The Gravity Falls gobblewonker!
+-   重力湖的湖怪
+
+McGucket：  Come quick before he scrapdoodles away!
+-   快赶在它窜走前看一眼
++   Scrap   废料
++   Doodles 涂鸦
+=   before he scrapdoodles away：意为 在他把东西涂鸦掉之前。
+    这里“scrapdoodles away”是一个创造性的表达，
+    结合了“scrap”和“doodles”的含义，表示某人可能会把东西涂鸦掉或弄得乱七八糟。
+
+Mabel:  Aw.He's doing a happy jig.
+-   啊 他在跳开心舞
++   jig 吉格舞 (怎么这么多奇奇怪怪的词啊)
+
+McGucket:   No!!!It's a jig of grave danger!
+-   不 这是死亡之舞
++   grave   n.坟墓  adj.严重的  v.雕刻
+
+McGucket's son:   Now,what did I tell you about scaring my customers?
+-   我跟你说过不要骚扰我的客人
+
+McGucket's son:   It's your last warning,dad.
+-   这是给你的终极警告 老爸
+
+McGucket:   But I got proof this time,by gummity!
+-   但是我这次找到证据了
++   proof   证明
++   Gummity 是一个非正式的、带有幽默和夸张的表达方式，通常用来代替 "God" 以避免使用宗教词汇。
+
+McGucket：  Behold!
++   看啊    (这是一个正式表达，我还以为是非正式的)
+
+McGucket：  It's gobbledywonker what done did it!
+-   是那只湖怪干的好事
+=   what done did it 是非正式的表达，有语法错误
+    可以换成    what did it do
+
+McGucket：  It had a long neck like a gee-raffe,
+-   它的脖子就像长颈鹿那么长
++   geraffe 长颈鹿 (写成 gee-raffe 还挺有意思的)
+
+McGucket：  and wrinkly skin like...like this gentleman right here.
+-   而且它的皮肤满布皱纹
++   wrinkly 皱的
++   skin    皮肤
+
+Stan:   Huh?
+-   什么
+
+McGucket：  It chopped my boat up to smitheroons!
+-   它把我的船撕成了木块
++   chop    砍
++   chop up 切碎
++   smitheroons 非正式用语 碎片
+=   smitheroons 可以换成 smithreens
+
+McGucket：It shim-shammed over to Scuttlebutt Island!
+-   而且它向水桶岛游去了
++   shimmy  一种摇摆舞步
+    shammed 过去式 (这老头还挺严谨的)
++   Scuttlebutt 桶
